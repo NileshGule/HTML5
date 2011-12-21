@@ -1,0 +1,60 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:Default.aspx" caret="405" fromTop="8" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:Site.css" caret="0" fromTop="0" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="895" fromTop="0" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1909" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="15" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="18" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="34" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="17" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="1" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="21" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="16" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="18" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="17" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="19" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="17" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="17" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="15" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="16" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="13" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="34" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="34" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="17" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="34" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="24" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="27" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="22" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="20" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="19" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="9" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4206" fromTop="24" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/f:TheFlowerBlog.htm" caret="4060" fromTop="16" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1935" fromTop="20" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="0" fromTop="0" />
+      <File id="CAF7FCC6-7F2D-4313-BE4F-F68E51A489B2/d:Styles/f:TheFlowerBlog.css" caret="1909" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

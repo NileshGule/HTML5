@@ -1,0 +1,5 @@
+E:\Nilesh\Projects\HTML5LearningSeries\HTML5LearningSeries\HTML5LearningSeries\bin\HTML5LearningSeries.dll
+E:\Nilesh\Projects\HTML5LearningSeries\HTML5LearningSeries\HTML5LearningSeries\bin\HTML5LearningSeries.pdb
+E:\Nilesh\Projects\HTML5LearningSeries\HTML5LearningSeries\HTML5LearningSeries\obj\Debug\ResolveAssemblyReference.cache
+E:\Nilesh\Projects\HTML5LearningSeries\HTML5LearningSeries\HTML5LearningSeries\obj\Debug\HTML5LearningSeries.dll
+E:\Nilesh\Projects\HTML5LearningSeries\HTML5LearningSeries\HTML5LearningSeries\obj\Debug\HTML5LearningSeries.pdb
