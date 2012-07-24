@@ -58,6 +58,9 @@
     <Content Include="Account\Register.aspx" />
     <Content Include="Assets\Images\DSCN4284.JPG" />
     <Content Include="Assets\Images\DSCN4285.JPG" />
+    <Content Include="MarkTagExample.html" />
+    <Content Include="MeterTagExample.htm" />
+    <Content Include="ProgressTagExample.html" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />

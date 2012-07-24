@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Progress Tag Example</title>
+    <link rel="stylesheet" href="Styles/TheFlowerBlog.css" />
+</head>
+<body>
+    <header>
+        <h1>
+            Progress Tag Example
+        </h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Archives</a></li>
+            <li><a href="#">Contact</a></li>
+            <li class="Subscribe"><a href="#">Sunscribe via RSS</a></li>
+        </ul>
+    </nav>
+    <section id="intro">
+        <header>
+            <h2>
+                Do you love flowers as we do?
+            </h2>
+        </header>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+            exercitation ullamco laboris nisi ut.</p>
+    </section>
+    <div id="content">
+        <div id="mainContent">
+            <section>
+                <article class="blogPost">
+                    <header>
+                        <h2>
+                            Progress Tag</h2>
+                    </header>
+                    <div>
+                        <p>
+                            <ul>
+                                <li>
+                                    <progress id="progressBar" value="10" max="100" />
+                                </li>
+                                <li>
+                                    <progress max="100">
+                                    </progress>
+                                </li>
+                                <li>
+                                    <label>
+                                        Javascript</label>
+                                    <progress id="progress-javascript-example">
+                                    </progress>
+                                </li>
+                            </ul>
+                        </p>
+                    </div>
+                </article>
+                <script>
+                    /** Setup the <progress> JavaScript example **/
+                    var progressExample = document.getElementById('progress-javascript-example');
+                    progressExample.min = 50;
+                    progressExample.max = 122;
+
+                    setInterval(function () {
+                        progressExample.value = progressExample.min + Math.random() * (progressExample.max - progressExample.min);
+
+                    }, 1000);
+
+                </script>
+            </section>
+        </div>
+        <aside>
+            <!--side bar-->
+        </aside>
+    </div>
+    <footer>
+        <!--footer-->
+    </footer>
+</body>
+</html>

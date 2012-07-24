@@ -85,7 +85,7 @@ nav ul li.subscribe a
     padding: 44px;
     background: #467612 url("/Assets/Images/dscn4284.jpg") repeat-x; /*background: #467612 url("/Assets/Images/dscn4284.jpg") top left (287px 100%) repeat-x, url("/Assets/Images/dscn4285.jpg") top rightright (653px 100%) no-repeat;*/
     background-size: 100%;
-    border-radius: 30px;
+    border-radius: 60px;
 }
 
 #intro h2, #intro p
